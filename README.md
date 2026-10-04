@@ -47,7 +47,7 @@ como estudante de programação no HTML CSS JS quero entrar na área de tecnolog
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomiraanda97"
     alt="Top Langs"
   />
-</picture>## Hi there 👋
+</picture>
 
 <!--
 **rodrigomiraanda97/Rodrigomiraanda97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
