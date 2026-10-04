@@ -1,7 +1,7 @@
 # 👾 Rodrigo Miranda 👾
 # Olá, eu sou Rodrigo Estou aprendendo programação e usando o GitHub para praticar e registrar minha evolução.
 
-<<p align="left">
+<p align="left">
 
   <a href="https://github.com/rodrigomiraanda97" target="_blank">
     <img
